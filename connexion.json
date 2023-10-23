@@ -1,0 +1,24 @@
+{
+  "members": [
+    {
+      "id-member": "Victor78",
+      "login": 1234,
+      "favorite-receipes": [
+        { "id": "52834" },
+        { "id": "52835" },
+        { "id": "52836" },
+        { "id": "52837" }
+      ]
+    },
+    {
+      "id-member": "Fabien91",
+      "login": 9876,
+      "favorite-receipes": [
+        { "id": "52842" },
+        { "id": "52848" },
+        { "id": "52836" },
+        { "id": "52837" }
+      ]
+    }
+  ]
+}
