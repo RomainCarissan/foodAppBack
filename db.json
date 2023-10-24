@@ -1,7 +1,7 @@
 {
   "members": [
     {
-      "id-member": "Victor78",
+      "id": "Victor78",
       "login": 1234,
       "favorite-receipes": [
         { "id": "52834" },
@@ -11,7 +11,7 @@
       ]
     },
     {
-      "id-member": "Fabien91",
+      "id": "Fabien91",
       "login": 9876,
       "favorite-receipes": [
         { "id": "52842" },
