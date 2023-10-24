@@ -3,7 +3,7 @@
     {
       "id": "Victor78",
       "login": 1234,
-      "favorite-receipes": [
+      "favorite": [
         { "id": "52834" },
         { "id": "52835" },
         { "id": "52836" },
@@ -13,7 +13,7 @@
     {
       "id": "Fabien91",
       "login": 9876,
-      "favorite-receipes": [
+      "favorite": [
         { "id": "52842" },
         { "id": "52848" },
         { "id": "52836" },
