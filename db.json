@@ -1,8 +1,9 @@
 {
   "members": [
     {
-      "id": "Victor78",
-      "login": 1234,
+      "id": 1,
+      "username": "victor78",
+      "login": "1234",
       "favorite": [
         { "id": "52834" },
         { "id": "52835" },
@@ -11,8 +12,9 @@
       ]
     },
     {
-      "id": "Fabien91",
-      "login": 9876,
+      "id": 2,
+      "username": "Fabien95",
+      "login": "9876",
       "favorite": [
         { "id": "52842" },
         { "id": "52848" },
